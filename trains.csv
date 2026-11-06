@@ -1,0 +1,8 @@
+TrainNo,Name,Route,Departure,Arrival,Carriages,SeatsPerCarriage
+4077,Yal Devi,Colombo - Kankesanthurai,05:45,13:45,8,56
+4017,Uttara Devi,Colombo - Kankesanthurai,06:45,15:15,10,48
+8057,Galu Kumari,Colombo - Galle,06:55,09:40,6,60
+8059,Ruhunu Kumari,Colombo - Galle,15:35,18:20,7,52
+1005,Podi Menike,Colombo - Kandy,05:55,09:05,9,64
+1015,Intercity Express,Colombo - Kandy,07:00,10:10,6,56
+1021,Udarata Menike,Colombo - Kandy,08:30,12:20,8,60
